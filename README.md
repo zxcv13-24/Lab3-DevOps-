@@ -1,3 +1,7 @@
 # Lab3-DevOps-
 #FIRST USER COMMIT
+<<<<<<< HEAD
 #ADD CONFLICT
+=======
+#CHANGES
+>>>>>>> 9765048f4109b12d6c045dde5a2f10dc3c261f13
